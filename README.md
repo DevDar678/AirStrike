@@ -70,7 +70,9 @@ Clone the repository and install dependencies:
 
 
 git clone https://github.com/DevDar678/AirStrike.git
+
 cd AirStrike
+
 pip install -r requirements.txt
 
 License
